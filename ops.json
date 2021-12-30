@@ -1,17 +1,7 @@
 [
   {
-    "uuid": "UUID-goes-here",
-    "name": "notch",
+    "uuid": "ff5772f5-2cd4-4fe8-a234-1a6a03c927c5",
+    "name": "WhaaHappen",
     "level": 4
   },
-  {
-    "uuid": "UUID-goes-here",
-    "name": "user1",
-    "level": 4
-  },
-  {
-    "uuid": "UUID-goes-here",
-    "name": "player1",
-    "level": 4
-  }
 ]

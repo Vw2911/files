@@ -1,0 +1,17 @@
+[
+  {
+    "uuid": "UUID-goes-here",
+    "name": "notch",
+    "level": 4
+  },
+  {
+    "uuid": "UUID-goes-here",
+    "name": "user1",
+    "level": 4
+  },
+  {
+    "uuid": "UUID-goes-here",
+    "name": "player1",
+    "level": 4
+  }
+]
